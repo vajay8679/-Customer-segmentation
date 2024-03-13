@@ -1,2 +1,2 @@
 # Customer-segmentation
-Capstone project alma better
+Capstone project 
